@@ -4,7 +4,7 @@ var App = {};
 App.settings = {
   // Go to WebApp page, copy the App ID and page below
   // https://mdash.net/a/YOUR_APP_ID/
-  appID: '',  // <-- Set this to YOUR_APP_ID
+  appID: 'OMkQnmTZ99799KuJ90YeNkJwQ',  // <-- Set this to YOUR_APP_ID
   provisionURL: 'http://192.168.4.1',
   mdashURL: 'https://mdash.net',
   callTimeoutMilli: 10000,  // 10 seconds
